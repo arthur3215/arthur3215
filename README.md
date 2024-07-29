@@ -124,5 +124,5 @@
 ###
 
 <p align="center">
- <img width="1000" src="shadow/github-snake.svg" alt="snake"/>
+ <img width="1000" src="angelo/github-snake.svg" alt="snake"/>
 </p>
